@@ -1,1 +1,1 @@
-# vesture
+# vesture a clothing e-commerce website where users can explore products, filter and sort them easily, choose varients like size and add items to their cart. They can place orders by providing their address and paying via COD or Online Payment. The admin panel lets admin add/remove products anytime.
